@@ -1,9 +1,14 @@
-theme: jekyll-theme-minimal
-title: Marlon Calispa
-description: MC professional/academic website. I'll keep you posted
+title: "Marlon Calispa"
+description: "Soil Science | GIS | Remote Sensing"
+author: "Marlon Calispa"
+theme: minima   # start simple; later you can switch to Minimal Mistakes or AcademicPages
+baseurl: ""     # leave empty for user.github.io
+url: "https://marloncalispa.github.io"
 
-# Navigation links
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
+# Navigation (will pull from _data/navigation.yml if using a custom theme)
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+markdown: kramdown
