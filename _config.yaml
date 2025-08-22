@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Marlon Calispa
 description: MC professional/academic website. I'll keep you posted
+
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
