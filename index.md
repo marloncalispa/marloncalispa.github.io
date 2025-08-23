@@ -1,9 +1,8 @@
 ---
-layout: home
-title: "Welcome"
+layout: default
+title: Home
 ---
 
-# Welcome
+# Test Page
 
-I am **Marlon Calispa**, a researcher in soil sciences, GIS, and remote sensing.  
-This site highlights my research, publications, and projects.
+If you see this, GitHub Pages is working.
