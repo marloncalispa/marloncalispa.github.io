@@ -31,7 +31,7 @@ collections:
 # Author info
 author:
   name: "Marlon Calispa"
-  avatar: "/images/profile.jpg"   # <-- change to your actual filename
+  avatar: "/images/FAceFront.jpg"   # <-- change to your actual filename
   bio: "Researcher in soil sciences, GIS, and remote sensing."
   links:
     - label: "Email"
