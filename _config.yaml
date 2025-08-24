@@ -1,14 +1,12 @@
 title: "Marlon Calispa"
 description: "Soil Science | GIS | Remote Sensing"
 author: "Marlon Calispa"
-theme: minima   # start simple; later you can switch to Minimal Mistakes or AcademicPages
-baseurl: ""     # leave empty for user.github.io
-url: "https://marloncalispa.github.io"
 
-# Navigation (will pull from _data/navigation.yml if using a custom theme)
-collections:
-  publications:
-    output: true
-    permalink: /publications/:path/
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
-markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
