@@ -5,25 +5,34 @@ url: "https://marloncalispa.github.io"
 baseurl: ""  # keep empty for user.github.io repos
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-include-cache   # ✅ fixed
+  - jekyll-include-cache
 
 # Site settings
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
-# Author info 
+# Collections (build underscored folders)
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  publications:
+    output: true
+    permalink: /:collection/:name/
+
+# Author info
 author:
-  name   : "Marlon Calispa"
-  avatar : "/images/FAceFront.jpg"
-  bio    : "Researcher in soil sciences, GIS, and remote sensing."
+  name: "Marlon Calispa"
+  avatar: "/images/profile.jpg"   # <-- change to your actual filename
+  bio: "Researcher in soil sciences, GIS, and remote sensing."
   links:
     - label: "Email"
       icon: "fas fa-envelope"
@@ -31,5 +40,3 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/marloncalispa"
-
-# Navigation (from _data/navigation.yml)
