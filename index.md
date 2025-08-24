@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: true
 ---
 
-# Test Page
-
-If you see this, GitHub Pages is working.
+Welcome to my academic website.  
+I am **Marlon Calispa**, a researcher in soil sciences, GIS, and remote sensing.
