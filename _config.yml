@@ -20,7 +20,7 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
-# Collections (build underscored folders)
+# Collections (build underscored folders) 
 collections:
   pages:
     output: true
