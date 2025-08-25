@@ -1,12 +1,16 @@
 ---
-layout: page
 title: "Contact"
 permalink: /contact/
+layout: single
 ---
+
+# About Me
+
+Contact me here:
 
 # Contact
 
-📧 marlon@example.com  
+📧 marloncalispa@gmail.com  
 🌍 Quito, Ecuador  
 🔗 [GitHub](https://github.com/marloncalispa)
 
