@@ -1,12 +1,18 @@
 title: "Marlon Calispa"
 name: "Marlon Calispa"
-description: "Soil Science | GIS | Remote Sensing"
+description: "Environmental Engineer specializing in Soil Organic Carbon mapping using Remote Sensing and GIS"
 url: "https://marloncalispa.github.io"
-baseurl: ""  # keep empty for user.github.io repos
+baseurl: ""
+
+# SEO improvements
+lang: "en-US"
+locale: "en-US"
 
 # Theme
-#Innocent test
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default" # or "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-paginate
@@ -20,24 +26,74 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 
-# Collections (build underscored folders) 
+# Collections
 collections:
-  pages:
-    output: true
-    permalink: /:path/
   publications:
     output: true
-    permalink: /:collection/:name/
+    permalink: /publications/:name/
+  research:
+    output: true
+    permalink: /research/:name/
 
-# Author info
+# Author info (improved)
 author:
   name: "Marlon Calispa"
-  avatar: "/images/FAceFront.jpg"   # <-- change to your actual filename
-  bio: "Researcher in soil sciences, GIS, ad remote sensing. Currently located in Ecuador"
+  avatar: "/images/FAceFront.jpg"
+  bio: "Environmental Engineer specializing in soil organic carbon mapping using remote sensing, GIS, and field observations across Ecuador and the Andes."
+  location: "Ecuador"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "marloncalispa@gmail.com"
-    - label: "Research Gate"
+      url: "mailto:marloncalispa@gmail.com"  # Added mailto:
+    - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Marlon-Calispa"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/marloncalispa"  # Add if you have one
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# SEO and social
+social:
+  type: Person
+  name: Marlon Calispa
+  links:
+    - "https://www.researchgate.net/profile/Marlon-Calispa"
+    - "https://marloncalispa.github.io"
+
+# Analytics (add if you want)
+# google_analytics: "UA-XXXXXXXXX-X"
