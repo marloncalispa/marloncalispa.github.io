@@ -2,7 +2,7 @@
 title: "Contact"
 permalink: /contact/
 layout: single
-author-profile: true
+author_profile: true
 ---
 
 # Contact

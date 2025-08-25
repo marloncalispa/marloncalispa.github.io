@@ -27,7 +27,11 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Collections
+# Collections
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   publications:
     output: true
     permalink: /publications/:name/
@@ -35,6 +39,9 @@ collections:
     output: true
     permalink: /research/:name/
 
+include:
+  - _pages
+  
 # Author info (improved)
 author:
   name: "Marlon Calispa"
