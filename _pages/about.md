@@ -32,7 +32,7 @@ related: false
   </div>
   
   <div style="flex: 0 0 300px;">
-    <img src="/images/DSC05303.jpg" alt="Marlon Calispa conducting field research - soil sampling in Ecuador" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/DSC05303.JPG" alt="Marlon Calispa conducting field research - soil sampling in Ecuador" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.9em; color: #666; text-align: center; margin-top: 0.5rem; font-style: italic;">Field research in Ecuador</p>
   </div>
 </div>
