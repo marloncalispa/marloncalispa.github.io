@@ -33,7 +33,7 @@ collections:
 author:
   name: "Marlon Calispa"
   avatar: "/images/FAceFront.jpg"   # <-- change to your actual filename
-  bio: "Researcher in soil sciences, GIS, and remote sensing."
+  bio: "Researcher in soil sciences, GIS, ad remote sensing. Currently located in Ecuador"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
