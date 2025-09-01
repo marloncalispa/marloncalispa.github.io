@@ -55,9 +55,9 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Marlon-Calispa"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/marloncalispa"  # Add if you have one
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=7LHTKQgAAAAJ&hl=es"  # Add if you have one
 
 # Default front matter
 defaults:
