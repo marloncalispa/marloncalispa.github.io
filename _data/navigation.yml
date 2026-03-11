@@ -3,9 +3,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Research"
-    url: /research/
-    description: "Current projects and methodologies"
+  #- title: "Research"
+  #  url: /research/
+  #  description: "Current projects and methodologies"
   - title: "Publications"
     url: /publications/
     description: "Academic papers and reports"
