@@ -58,6 +58,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=7LHTKQgAAAAJ&hl=es"  # Add if you have one
+    - label: "Instagram"
+      icon: "fab fa-instagram
+      url: "https://www.instagram.com/theandeanmapper/"
 
 # Default front matter
 defaults:
