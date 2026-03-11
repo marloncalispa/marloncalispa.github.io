@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: "About me"
+title: "Something about me"
 classes: wide
 ---
 
-I'm Marlon Calispa, an Environmental Engineer specializing in **soil organic carbon mapping** using remote sensing and GIS. I combine satellite imagery, field sampling, and reproducible workflows to deliver spatially explicit carbon maps for researchers and land managers.
+I'm Marlon Calispa, an Environmental Engineer specializing in **soil organic carbon mapping** using remote sensing and GIS. I combine satellite imagery, field sampling, and reproducible workflows to deliver spatially explicit carbon maps for researchers and land managers. I have experience on high andean ecosystems **páramos** particularly soil development, soil organic carbon stocks and stability.
 
 My work focuses on scalable mapping approaches across, bridging the gap between remote sensing technology and practical soil science applications.
 
@@ -21,7 +21,7 @@ Developing reproducible workflows for mapping soil carbon stocks at regional sca
 - Multi-sensor remote sensing approaches
 - Integration of field observations with satellite data
 - Open-source tools and methodologies
----
+  
 ### Quick Links
 - 📧 [Contact me](mailto:marloncalispa@gmail.com)
 - 🔬 [ResearchGate Profile](https://www.researchgate.net/profile/Marlon-Calispa)
