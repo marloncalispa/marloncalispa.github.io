@@ -21,13 +21,7 @@ Developing reproducible workflows for mapping soil carbon stocks at regional sca
 - Multi-sensor remote sensing approaches
 - Integration of field observations with satellite data
 - Open-source tools and methodologies
-
 ---
-
-## Featured Work
-
-*Coming soon - check my [Research](/research/) and [Publications](/publications/) pages for detailed project information.*
-
 ### Quick Links
 - 📧 [Contact me](mailto:marloncalispa@gmail.com)
 - 🔬 [ResearchGate Profile](https://www.researchgate.net/profile/Marlon-Calispa)
