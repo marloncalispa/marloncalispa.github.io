@@ -11,12 +11,15 @@ related: false
 ---
 
 ## Peer-Reviewed Articles
+Vinueza, A., **Calispa, M.**, Carpio, V., Tapia, E., Dea, M., Mira, M. & Vinueza, P. (2026). Human scabies and pediculosis in Ecuador: spatial dsitribution and environmental determinants. *Parasitology*,   
+[📄 DOI: 10.1371/journal.pntd.0012205](https://doi.org/10.1371/journal.pntd.0012205)
 
-Cuesta, F., Calderón-Loor, M., Rosero, P., **Calispa, M.**, Zisling, H., Pérez-Castillo, Y., Ríos-Touma, B., & Echevarría, G. (2024). Seasonally flooded landscape connectivity and implications for fish in the Napo Moist Forest: A high-resolution mapping approach. *Global Ecology and Conservation*, *56*, e03257.  
-[📄 DOI: 10.1016/j.gecco.2024.e03257](https://doi.org/10.1016/j.gecco.2024.e03257)
 
 Vinueza, A., **Calispa, M.**, Vinueza, V., Carpio, V., Piedra, J., Vinueza, F., & Galindo, B. (2025). Neurocysticercosis in Ecuador: Spatial clustering, social determinants, and epidemiological trends (2017–2023). *PLoS Neglected Tropical Diseases*, *19*(7), e0012205.  
 [📄 DOI: 10.1371/journal.pntd.0012205](https://doi.org/10.1371/journal.pntd.0012205)
+
+Cuesta, F., Calderón-Loor, M., Rosero, P., **Calispa, M.**, Zisling, H., Pérez-Castillo, Y., Ríos-Touma, B., & Echevarría, G. (2024). Seasonally flooded landscape connectivity and implications for fish in the Napo Moist Forest: A high-resolution mapping approach. *Global Ecology and Conservation*, *56*, e03257.  
+[📄 DOI: 10.1016/j.gecco.2024.e03257](https://doi.org/10.1016/j.gecco.2024.e03257)
 
 Vinueza, A., Andrade, F., **Calispa, M.**, Riofrío, C., Carpio, V., Cruz, B., Vinueza, P., & Vinueza, F. (2024). Asociación entre mortalidad por COVID-19 y altitud durante el año 2020 en Ecuador: Un estudio ecológico. *Revista Cubana de Medicina Tropical*.
 
